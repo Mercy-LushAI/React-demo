@@ -1,0 +1,85 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 10;
+}
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid whitesmoke;
+}
+
+.navbar h1 {
+  color: rgb(16, 69, 167);
+}
+
+.navbar .links {
+  margin-left: auto;
+}
+
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+
+.navbar a:hover {
+  color: red;
+}
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create label {
+  text-align: left;
+  display: block;
+}
+
+.create h2 {
+  font-size: 30px;
+  color: rgb(46, 54, 168);
+  margin-bottom: 30px;
+}
+
+.create input,
+.create textarea,
+.create select {
+  width: 100%;
+  height: 50%;
+  padding: 6px, 10px;
+  margin: 10px 0;
+  border: 1px solid rgb(121, 121, 121);
+  box-sizing: border-box;
+  display: block;
+}
+
+.joblist h3 {
+  color: rgb(46, 54, 168);
+}
+
+.job-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.job-preview:hover {
+  box-shadow: 1px 3px 5px rgb(34, 33, 33);
+}
+
+.job-preview a {
+  text-decoration: none;
+}

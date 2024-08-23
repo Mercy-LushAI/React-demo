@@ -1,0 +1,52 @@
+{
+  "jobs": [
+    {
+      "id": "2",
+      "title": "Product Manager",
+      "description": "Oversee product development and strategy.",
+      "qualification": "Experience in product management and a relevant degree."
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Designer",
+      "description": "Design user interfaces and enhance user experience.",
+      "qualification": "Proficiency in design tools and a portfolio of previous work."
+    },
+    {
+      "id": "4",
+      "title": "Data Scientist",
+      "description": "Analyze and interpret complex data to help make business decisions.",
+      "qualification": "Master's degree in Data Science or a related field, with experience in data analysis tools."
+    },
+    {
+      "id": "5",
+      "title": "DevOps Engineer",
+      "description": "Automate and streamline development and deployment processes.",
+      "qualification": "Experience with cloud platforms, CI/CD pipelines, and scripting languages."
+    },
+    {
+      "id": "6",
+      "title": "Marketing Specialist",
+      "description": "Develop and implement marketing strategies to drive brand growth.",
+      "qualification": "Experience in marketing and a degree in a related field."
+    },
+    {
+      "id": "7",
+      "title": "Customer Support Representative",
+      "description": "Provide support and assistance to customers via various channels.",
+      "qualification": "Strong communication skills and experience in customer service."
+    },
+    {
+      "id": "8",
+      "title": "Systems Administrator",
+      "description": "Manage and maintain IT systems and infrastructure.",
+      "qualification": "Experience with system administration and relevant certifications."
+    },
+    {
+      "id": "d15b",
+      "jobName": "something",
+      "jobDesc": "something more",
+      "jobQf": "i don't know"
+    }
+  ]
+}
